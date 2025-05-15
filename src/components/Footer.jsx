@@ -9,7 +9,7 @@ export function FooterN() {
           <FooterBrand
             href="#"
             src="./GONFLIX-LOGO.png"
-            alt="Nextfliks Logo"
+            alt="Gonflix Logo"
             name=""
             className="h-8 "
           />
