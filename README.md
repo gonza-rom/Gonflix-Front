@@ -55,3 +55,5 @@ Cada perfil mantiene su propia lista de películas favoritas de manera independi
 📄 Paginado en el listado de películas
 
 ## Deploy
+
+https://gonflix.netlify.app/
