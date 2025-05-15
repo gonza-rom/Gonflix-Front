@@ -1,7 +1,7 @@
 import axios from "axios";
 const api = axios.create({
   // baseURL: import.meta.env.VITE_BASE_URL
-   baseURL: 'https://modulo4-sprint6-back-1.onrender.com/'
+   baseURL: 'https://gonflix-backend-1.onrender.com'
 })
 
 export const createUsuario = (user) => api.post('/auth/register', user)
